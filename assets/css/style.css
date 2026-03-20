@@ -1,0 +1,16 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ms-250 {
+    margin-left: 250px;
+}
+.bg-dark {
+    background-color: #212529 !important;
+}
+.nav-link:hover {
+    background-color: #343a40;
+}
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+    border: 1px solid rgba(0,0,0,0.125);
+}
